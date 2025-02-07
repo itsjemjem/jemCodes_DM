@@ -1,0 +1,106 @@
+food_item,calories,protein,carbs,fats,meal_time
+Apple,95.0,0.5,25.0,0.3,Breakfast
+Banana,105.0,1.3,27.0,0.4,Snack
+Chicken Breast,165.0,31.0,0.0,3.6,Lunch
+Steak,679.0,62.0,0.0,48.0,Dinner
+Salad,150.0,2.0,15.0,7.0,Lunch
+Pizza,,12.0,36.0,10.0,Dinner
+Rice,206.0,4.3,45.0,0.5,Lunch
+Fish,232.0,26.0,0.0,5.0,Dinner
+Yogurt,59.0,10.0,12.0,0.4,Snack
+Pasta,131.0,5.0,25.0,1.1,Lunch
+Apple,95.0,0.5,25.0,0.3,Breakfast
+Banana,105.0,1.3,27.0,0.4,Snack
+Chicken Breast,165.0,31.0,0.0,3.6,Lunch
+Steak,679.0,62.0,0.0,48.0,Dinner
+Salad,150.0,2.0,15.0,7.0,Lunch
+Pizza,285.0,,36.0,10.0,Dinner
+Rice,206.0,4.3,45.0,0.5,Lunch
+Fish,232.0,26.0,0.0,5.0,Dinner
+Yogurt,59.0,10.0,12.0,0.4,Snack
+Pasta,131.0,5.0,25.0,1.1,Lunch
+Apple,95.0,0.5,25.0,0.3,Breakfast
+Banana,105.0,1.3,27.0,0.4,Snack
+Chicken Breast,165.0,31.0,0.0,3.6,Lunch
+Steak,679.0,62.0,0.0,48.0,Dinner
+Salad,150.0,2.0,15.0,7.0,Lunch
+Pizza,285.0,12.0,,10.0,Dinner
+Rice,206.0,4.3,45.0,0.5,Lunch
+Fish,232.0,26.0,0.0,5.0,Dinner
+Yogurt,59.0,10.0,12.0,0.4,Snack
+Pasta,131.0,5.0,25.0,1.1,Lunch
+Apple,95.0,0.5,25.0,0.3,Breakfast
+Banana,105.0,1.3,27.0,0.4,Snack
+Chicken Breast,165.0,31.0,0.0,3.6,Lunch
+Steak,679.0,62.0,0.0,48.0,Dinner
+Salad,150.0,2.0,15.0,7.0,Lunch
+Pizza,-50.0,12.0,36.0,10.0,Dinner
+Rice,206.0,4.3,45.0,0.5,Lunch
+Fish,232.0,26.0,0.0,5.0,Dinner
+Yogurt,59.0,10.0,12.0,0.4,Snack
+Pasta,131.0,5.0,25.0,1.1,Lunch
+Apple,95.0,0.5,25.0,0.3,Breakfast
+Banana,105.0,1.3,27.0,0.4,Snack
+Chicken Breast,165.0,31.0,0.0,3.6,Lunch
+Steak,679.0,62.0,0.0,48.0,Dinner
+Salad,150.0,2.0,15.0,7.0,Lunch
+Pizza,285.0,300.0,36.0,10.0,Dinner
+Rice,206.0,4.3,45.0,0.5,Lunch
+Fish,232.0,26.0,0.0,5.0,Dinner
+Yogurt,59.0,10.0,12.0,0.4,Snack
+Pasta,131.0,5.0,25.0,1.1,Lunch
+Apple,95.0,0.5,25.0,0.3,Breakfast
+Banana,105.0,1.3,27.0,0.4,Snack
+Chicken Breast,165.0,31.0,0.0,3.6,Lunch
+Steak,679.0,62.0,0.0,48.0,Dinner
+Salad,150.0,2.0,15.0,7.0,Lunch
+Pizza,285.0,12.0,36.0,10.0,Dinner
+Rice,206.0,4.3,45.0,0.5,Lunch
+Fish,232.0,26.0,0.0,5.0,Dinner
+Yogurt,59.0,10.0,12.0,0.4,Snack
+Pasta,131.0,5.0,25.0,1.1,Lunch
+Apple,95.0,0.5,25.0,0.3,Breakfast
+Banana,105.0,1.3,27.0,0.4,Snack
+Chicken Breast,165.0,31.0,0.0,3.6,Lunch
+Steak,679.0,62.0,0.0,48.0,Dinner
+Salad,150.0,2.0,15.0,7.0,Lunch
+Pizza,285.0,12.0,36.0,10.0,Dinner
+Rice,206.0,4.3,45.0,0.5,Lunch
+Fish,232.0,26.0,0.0,5.0,Dinner
+Yogurt,59.0,10.0,12.0,0.4,Snack
+Pasta,131.0,5.0,25.0,1.1,Lunch
+Apple,95.0,0.5,25.0,0.3,Breakfast
+Banana,105.0,1.3,27.0,0.4,Snack
+Chicken Breast,165.0,31.0,0.0,3.6,Lunch
+Steak,679.0,62.0,0.0,48.0,Dinner
+Salad,150.0,2.0,15.0,7.0,Lunch
+Pizza,285.0,12.0,36.0,10.0,Dinner
+Rice,206.0,4.3,45.0,0.5,Lunch
+Fish,232.0,26.0,0.0,5.0,Dinner
+Yogurt,59.0,10.0,12.0,0.4,Snack
+Pasta,131.0,5.0,25.0,1.1,Lunch
+Apple,95.0,0.5,25.0,0.3,Breakfast
+Banana,105.0,1.3,27.0,0.4,Snack
+Chicken Breast,165.0,31.0,0.0,3.6,Lunch
+Steak,679.0,62.0,0.0,48.0,Dinner
+Salad,150.0,2.0,15.0,7.0,Lunch
+Pizza,285.0,12.0,36.0,10.0,Dinner
+Rice,206.0,4.3,45.0,0.5,Lunch
+Fish,232.0,26.0,0.0,5.0,Dinner
+Yogurt,59.0,10.0,12.0,0.4,Snack
+Pasta,131.0,5.0,25.0,1.1,Lunch
+Apple,95.0,0.5,25.0,0.3,Breakfast
+Banana,105.0,1.3,27.0,0.4,Snack
+Chicken Breast,165.0,31.0,0.0,3.6,Lunch
+Steak,679.0,62.0,0.0,48.0,Dinner
+Salad,150.0,2.0,15.0,7.0,Lunch
+Pizza,285.0,12.0,36.0,10.0,Dinner
+Rice,206.0,4.3,45.0,0.5,Lunch
+Fish,232.0,26.0,0.0,5.0,Dinner
+Yogurt,59.0,10.0,12.0,0.4,Snack
+Pasta,131.0,5.0,25.0,1.1,Lunch
+Pizza,,12.0,36.0,10.0,Dinner
+Rice,206.0,4.3,45.0,0.5,Lunch
+Fish,232.0,26.0,0.0,5.0,Dinner
+Yogurt,59.0,10.0,12.0,0.4,Snack
+Pasta,131.0,5.0,25.0,1.1,Lunch
